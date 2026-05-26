@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routereonnect",
+        "uuid": 4574088,
+        "checksum": "ka0qo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
